@@ -1,0 +1,16 @@
+.apparence {
+    display: flex;
+    justify-content: space-between;
+    
+    
+    
+}
+
+.apparence:nth-child(3){
+    display: flex;
+}
+
+.monTableau > input{
+    height: 500px;
+    width: 100%;
+}
